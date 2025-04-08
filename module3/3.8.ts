@@ -25,7 +25,7 @@
     getSleepingHours(person2)
     getSleepingHours(person3)
 
-
+    // another example
     class Shape{
         getArea(): number{
             return 0
