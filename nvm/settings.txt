@@ -1,0 +1,2 @@
+root: C:\Users\User\Desktop\Mukta\Next-Level-Web-Development2025\nvm
+path: C:\nvm4w\nodejs
